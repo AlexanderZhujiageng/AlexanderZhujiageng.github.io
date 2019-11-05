@@ -12,7 +12,51 @@ tags:								#标签
     - Laser propagation
 ---
 
-## Fast Laser propgation calculation
->这是我的第一篇博客。
+## Introduction
 
-进入你的博客主页，新的文章将会出现在你的主页上.
+一年一度的 WWDC（苹果全球开发者大会）于北京时间 6月5日 凌晨1点开幕。废话不多说，来看看这次WWDC 都有哪些亮点吧!
+
+
+## Method detail
+
+>关键词：官方防沉迷最为致命
+
+## Experiment
+
+iOS 12 相较于 iOS 11 并没有太多UI上的变动，刚更新完 bate 版本的 iOS 12，完全感觉不到这是个新系统。
+
+iOS 12 主要是对安全和性能的优化，iOS 12 在旧设备上的运行速度比 iOS 11更块，程序加载速度快了一倍。（PS：看来苹果并没有放弃旧设备）
+
+![](https://cdn.mos.cms.futurecdn.net/RdxhPVv8fAyM6oHsRgF6dH-650-80.png)
+
+## Problems 
+
+Apple 与 皮克斯 合作开发了一种用于共享AR内容的新文件格式，新的 AR 格式名为 USDZ。
+
+作为一个含着金苹果出生的新生儿，USDZ 一开始就得到了 Adobe Creative Cloud （包括 Photoshop CC、InDesign CC、Illustrator CC、Dreamweaver CC、Premiere Pro CC）套件的支持。
+
+![](https://images.ifanr.cn/wp-content/uploads/2018/06/WWDC-10.jpg)
+
+同时，面向开发者的开发套件 ARKit 则升级到了二代，主要提升了面部跟踪、渲染能力、3D 探测和共享体验等能力。
+
+随后展示了一款名为 Measure 的 App，可使用AR查看物品大小。
+
+![](https://cdn.mos.cms.futurecdn.net/4tbGCxGUGsH9VwSLsfMDK5-650-80.png)
+
+最后为了演示新的 AR 能力和效果，苹果请来了乐高的创意总监来捧场。这是一个真实的乐高积木建筑物为基础，最多四个人可以用苹果 AR 应用进行游戏，可以在真实环境中模拟出各种虚拟的形象和建筑。
+
+![](https://images.ifanr.cn/wp-content/uploads/2018/06/WWDC-9.jpg)
+![](https://images.ifanr.cn/wp-content/uploads/2018/06/WWDC-11.jpg)
+
+## Conclusion and future work
+
+iOS 12 的相册将大大提升搜索性能，系统不仅会提出搜索建议，还会帮你按主题整理照片。
+
+![](https://images.ifanr.cn/wp-content/uploads/2018/06/WWDC-13.jpg)
+
+![](https://images.ifanr.cn/wp-content/uploads/2018/06/WWDC-14.jpg)
+
+
+
+
+### Reference
