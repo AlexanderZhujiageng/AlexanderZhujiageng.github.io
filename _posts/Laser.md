@@ -3,7 +3,7 @@ layout:     post   				    # 使用的布局（不需要改）
 title:      Beam optics and Machine learning research			# 标题 
 subtitle:   Research in USC #副标题
 date:       2018-08-10 				# 时间
-author:     Jiageng 						# 作者
+author:     Jiageng Zhu             # 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
