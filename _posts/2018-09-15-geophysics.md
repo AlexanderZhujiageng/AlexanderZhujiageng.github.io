@@ -1,15 +1,15 @@
-
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      Short term plasticity research			# 标题 
-subtitle:   Intern research in Peking University #副标题
+title:      Segment salt deposits beneath the Earth's surface			# 标题 
+subtitle:   Kaggle competation #副标题
 date:       2018-08-10				# 时间
 author:     Jiageng 						# 作者
-header-img: img/salt.png 	#这篇文章标题背景图片
+header-img: img/salt.png   
 catalog: true 						# 是否归档
 tags:								#标签
     - machine learning
     - image processing
+    
 ---
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
